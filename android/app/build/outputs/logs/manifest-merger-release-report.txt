@@ -1,0 +1,339 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-maps] /Users/Shaggy/Documents/Navigation/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-vector-icons] /Users/Shaggy/Documents/Navigation/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/Shaggy/Documents/Navigation/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/808faa5c86b64e380034c879c9c2f3d1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/771d251945eb2da208552c1d69544e7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/18092cd1451e97e069c20299b38cd7ff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/exifinterface-28.0.0.aar/a9f1d0e9d673b0ffbe0a46ed3a8d8e5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/335256a284297340355712d3ca1ebfbc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/f8ec9b8427ef53c08452c8c7e985486c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/9853be9b0d307f66f465133de2628733/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f17606553820af3d664c203a3d09aa9e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/bbc99bd8bafe4f6100310502f15d584b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/58d6aae85afbb545cc6ed5e76e041b02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4d0703e68e7ab5d178e8c15dee272df4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8c3bde03bfc685c2427c02f0ffc9caa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9d35de110ffb4b7f508cacc32f0315b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b4f12544c5750115374a445b9273c949/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ab4eacdf43479558861f02819d97c9fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c2e4f8073a8b05316ddfb07d6cf73e48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c1d731a016b4301b370832b890a86d1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8c67c9cde218d9ae45a5607e86ba7d9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/25c6988b45bf1e0c5a97f781f9656c09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d435fe86bac7cd050e58087c22b148e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38d235c5ba65f3c92fbbb13338fd631e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6c75bb41fa8055dde733c82ac5d628e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7a583196bf2f5a4ec71a7c96a59b87d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/715889d25ed315b8d928b864fa55142e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70e2aecaae456265513e098cb82a0e6c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ed82216021e9d64872bbf8e8a6061e2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9928f7d2e7629ab50d75c3090cdf9e3a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c65cc6e6c35dfaa395681627fb518cb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8956c6208aff0dafe733ec90fbde6f07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0b292aaf4ffd0d517a841679075d53ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ee0226d0696206c2d0d04d8788ee4dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bd5a9a0d88eaa6cad5fdb2968e609e8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf4da48354516dd74e130ac657343dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5d9a062f2f47205ea20abf0476f7aa2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/77784d0f4dd675cccb1699de20a39bff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea8928fbe8f088076700a6422e97da76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/26c0f594c3aa898b903e8c11cbc728a0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/580b4ed692f8830df83fb34a26692af3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5550defe8e9ba579262166eeb5106caf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9d3d8f78aa39a5e32450a22c3ade499a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/df17c3defc4960bbb3a54479eeab9e03/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/128e07493f944a2e33e698513c06b2b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/39ade142597b36451946020702231dec/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/daedf89a797b8ddfc530cb51fe9f6567/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e32a8200d30269abe5786c3d933942c9/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/Shaggy/Documents/Navigation/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/Shaggy/Documents/Navigation/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/808faa5c86b64e380034c879c9c2f3d1/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/808faa5c86b64e380034c879c9c2f3d1/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:7:1-76
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:7:18-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:8:1-77
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:8:18-74
+application
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:9:5-30:19
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/808faa5c86b64e380034c879c9c2f3d1/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/808faa5c86b64e380034c879c9c2f3d1/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/18092cd1451e97e069c20299b38cd7ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/18092cd1451e97e069c20299b38cd7ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/335256a284297340355712d3ca1ebfbc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/335256a284297340355712d3ca1ebfbc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/f8ec9b8427ef53c08452c8c7e985486c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/f8ec9b8427ef53c08452c8c7e985486c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f17606553820af3d664c203a3d09aa9e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f17606553820af3d664c203a3d09aa9e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/bbc99bd8bafe4f6100310502f15d584b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/bbc99bd8bafe4f6100310502f15d584b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70e2aecaae456265513e098cb82a0e6c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70e2aecaae456265513e098cb82a0e6c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ed82216021e9d64872bbf8e8a6061e2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ed82216021e9d64872bbf8e8a6061e2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/26c0f594c3aa898b903e8c11cbc728a0/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/26c0f594c3aa898b903e8c11cbc728a0/AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/39ade142597b36451946020702231dec/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/39ade142597b36451946020702231dec/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/daedf89a797b8ddfc530cb51fe9f6567/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/daedf89a797b8ddfc530cb51fe9f6567/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70e2aecaae456265513e098cb82a0e6c/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:roundIcon
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:13:7-52
+	android:icon
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.navigation.MainActivity
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:26:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:27:7-29:63
+	android:value
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:29:6-61
+	android:name
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:28:6-51
+uses-sdk
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/Shaggy/Documents/Navigation/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/Shaggy/Documents/Navigation/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/Shaggy/Documents/Navigation/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Shaggy/Documents/Navigation/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Shaggy/Documents/Navigation/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/Shaggy/Documents/Navigation/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/808faa5c86b64e380034c879c9c2f3d1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/react-native-0.58.5.aar/808faa5c86b64e380034c879c9c2f3d1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/771d251945eb2da208552c1d69544e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/771d251945eb2da208552c1d69544e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/18092cd1451e97e069c20299b38cd7ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/18092cd1451e97e069c20299b38cd7ff/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/exifinterface-28.0.0.aar/a9f1d0e9d673b0ffbe0a46ed3a8d8e5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/exifinterface-28.0.0.aar/a9f1d0e9d673b0ffbe0a46ed3a8d8e5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/335256a284297340355712d3ca1ebfbc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/335256a284297340355712d3ca1ebfbc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/f8ec9b8427ef53c08452c8c7e985486c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/f8ec9b8427ef53c08452c8c7e985486c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/9853be9b0d307f66f465133de2628733/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/9853be9b0d307f66f465133de2628733/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f17606553820af3d664c203a3d09aa9e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/f17606553820af3d664c203a3d09aa9e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/bbc99bd8bafe4f6100310502f15d584b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/bbc99bd8bafe4f6100310502f15d584b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/58d6aae85afbb545cc6ed5e76e041b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/58d6aae85afbb545cc6ed5e76e041b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4d0703e68e7ab5d178e8c15dee272df4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4d0703e68e7ab5d178e8c15dee272df4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8c3bde03bfc685c2427c02f0ffc9caa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8c3bde03bfc685c2427c02f0ffc9caa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9d35de110ffb4b7f508cacc32f0315b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9d35de110ffb4b7f508cacc32f0315b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b4f12544c5750115374a445b9273c949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b4f12544c5750115374a445b9273c949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ab4eacdf43479558861f02819d97c9fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ab4eacdf43479558861f02819d97c9fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c2e4f8073a8b05316ddfb07d6cf73e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/c2e4f8073a8b05316ddfb07d6cf73e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c1d731a016b4301b370832b890a86d1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c1d731a016b4301b370832b890a86d1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8c67c9cde218d9ae45a5607e86ba7d9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8c67c9cde218d9ae45a5607e86ba7d9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/25c6988b45bf1e0c5a97f781f9656c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/25c6988b45bf1e0c5a97f781f9656c09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d435fe86bac7cd050e58087c22b148e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d435fe86bac7cd050e58087c22b148e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38d235c5ba65f3c92fbbb13338fd631e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38d235c5ba65f3c92fbbb13338fd631e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6c75bb41fa8055dde733c82ac5d628e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6c75bb41fa8055dde733c82ac5d628e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7a583196bf2f5a4ec71a7c96a59b87d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7a583196bf2f5a4ec71a7c96a59b87d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/715889d25ed315b8d928b864fa55142e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/715889d25ed315b8d928b864fa55142e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70e2aecaae456265513e098cb82a0e6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/70e2aecaae456265513e098cb82a0e6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ed82216021e9d64872bbf8e8a6061e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/5ed82216021e9d64872bbf8e8a6061e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9928f7d2e7629ab50d75c3090cdf9e3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9928f7d2e7629ab50d75c3090cdf9e3a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c65cc6e6c35dfaa395681627fb518cb1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c65cc6e6c35dfaa395681627fb518cb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8956c6208aff0dafe733ec90fbde6f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8956c6208aff0dafe733ec90fbde6f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0b292aaf4ffd0d517a841679075d53ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0b292aaf4ffd0d517a841679075d53ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ee0226d0696206c2d0d04d8788ee4dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ee0226d0696206c2d0d04d8788ee4dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bd5a9a0d88eaa6cad5fdb2968e609e8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bd5a9a0d88eaa6cad5fdb2968e609e8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf4da48354516dd74e130ac657343dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf4da48354516dd74e130ac657343dc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5d9a062f2f47205ea20abf0476f7aa2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f5d9a062f2f47205ea20abf0476f7aa2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/77784d0f4dd675cccb1699de20a39bff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/77784d0f4dd675cccb1699de20a39bff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea8928fbe8f088076700a6422e97da76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea8928fbe8f088076700a6422e97da76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/26c0f594c3aa898b903e8c11cbc728a0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/26c0f594c3aa898b903e8c11cbc728a0/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/580b4ed692f8830df83fb34a26692af3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/580b4ed692f8830df83fb34a26692af3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5550defe8e9ba579262166eeb5106caf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5550defe8e9ba579262166eeb5106caf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9d3d8f78aa39a5e32450a22c3ade499a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/9d3d8f78aa39a5e32450a22c3ade499a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/df17c3defc4960bbb3a54479eeab9e03/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/df17c3defc4960bbb3a54479eeab9e03/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/128e07493f944a2e33e698513c06b2b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/128e07493f944a2e33e698513c06b2b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/39ade142597b36451946020702231dec/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/39ade142597b36451946020702231dec/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e32a8200d30269abe5786c3d933942c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e32a8200d30269abe5786c3d933942c9/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/Shaggy/Documents/Navigation/node_modules/react-native-camera/android/build/intermediates/merged_manifests/generalRelease/processGeneralReleaseManifest/merged/AndroidManifest.xml:15:9-57
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/Shaggy/Documents/Navigation/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/Shaggy/Documents/Navigation/node_modules/react-native-maps/lib/android/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.0.0.aar/e3d85376ec4204648b79f740d933a956/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e23fa1f0d3291a2d8d2f03595df5c72d/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/26c0f594c3aa898b903e8c11cbc728a0/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/26c0f594c3aa898b903e8c11cbc728a0/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/Shaggy/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/96a45c251f60d544e897a8beac89ab14/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/Shaggy/Documents/Navigation/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
